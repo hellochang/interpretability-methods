@@ -92,4 +92,6 @@ with tf.compat.v1.Session() as sess:
     imported_graph.restore(sess,'models/checkpoint')
     
     model = Model_DeepHit(sess, "DeepHit", input_dims, network_settings)
+    print("Instantiated model")
 
+print("Reached end")
