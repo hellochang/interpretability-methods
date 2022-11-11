@@ -1,0 +1,3 @@
+[submodule "nash-traj"]
+	path = nash-traj
+	url = git@github.com:irieyj-sun/nash-trajectory.git
