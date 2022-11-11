@@ -1,3 +1,6 @@
 [submodule "nash-traj"]
 	path = nash-traj
 	url = git@github.com:irieyj-sun/nash-trajectory.git
+[submodule "streamlit"]
+	path = streamlit
+	url = git@github.com:madisonmussari/streamlit.git
